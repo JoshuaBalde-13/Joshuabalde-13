@@ -1,11 +1,14 @@
 <div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua;Aspiring+Data+Engineer;3rd+Year+BSIT+Student+at+NU+Fairview)](https://git.io/typing-svg)
+
+</div>
 
 ---
 
-### Tech Stack & Tools
+#### Tech Stack & Tools
 <br>
+<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -15,14 +18,14 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
+</div>
 <br>
 
 ---
 
-### Connect with Me
-
+#### Connect with Me
 <br>
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-joshua-balde-685270399)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joszhnn.013)
@@ -30,15 +33,14 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baldebryanjoshua13@gmail.com)
 
 <br>
+</div>
 
 ---
 
-### Statistics
+#### Statistics
 
-<br>
+<div align="center">
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JoshuaBalde-13&theme=dark&hide_border=true&stroke=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80)
-
-<br>
 
 </div>
