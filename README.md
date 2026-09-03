@@ -3,9 +3,13 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua;Aspiring+Data+Engineer;3rd+Year+BSIT+Student+at+NU+Fairview)](https://git.io/typing-svg)
 
 <br>
-![](https://capsule-render.vercel.app/api?type=rect&color=30363D&height=3&width=1000)
+
+---
 
 ## Tech Stack & Tools
+
+
+
 <br>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,9 +22,12 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
-![](https://capsule-render.vercel.app/api?type=rect&color=30363D&height=3&width=1000)
+
+---
 
 ## Connect with Me
+
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-joshua-balde-685270399)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/joszhnn.013)
@@ -28,10 +35,13 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baldebryanjoshua13@gmail.com)
 
 <br>
-![](https://capsule-render.vercel.app/api?type=rect&color=30363D&height=3&width=1000)
+
+---
 
 ## Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JoshuaBalde-13&theme=dark&hide_border=true&stroke=4ADE80&ring=4ADE80&fire=4ADE80&currStreakLabel=4ADE80)
+
+<br>
 
 </div>
