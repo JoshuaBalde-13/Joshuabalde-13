@@ -6,7 +6,7 @@
 
 ---
 
-#### Tech Stack & Tools
+### Tech Stack & Tools
 <br>
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 ---
 
-#### Connect with Me
+### Connect with Me
 <br>
 <div align="center">
 
@@ -37,7 +37,7 @@
 
 ---
 
-#### Statistics
+### Statistics
 
 <div align="center">
 
