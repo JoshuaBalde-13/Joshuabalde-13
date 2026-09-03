@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua;Aspiring+Data+Engineer;3rd+Year+BSIT+Student+at+NU+Fairview)](https://git.io/typing-svg)
 
-<br><br>
+<br>
 
 ---
 
@@ -32,7 +32,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joszhnn)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:baldebryanjoshua13@gmail.com)
 
-<br><br>
+<br>
 
 ---
 
