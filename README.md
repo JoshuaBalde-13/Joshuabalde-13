@@ -2,7 +2,7 @@
 
 # Hi, I'm Joshua 👋
 
-**Aspiring Data Engineer** · 3rd Year BSIT Student at NU Fairview
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=26&duration=3500&pause=1200&color=E67E22&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer;3rd+Year+BSIT+Student+at+NU+Fairview)](https://git.io/typing-svg)
 
 <br>
 
@@ -26,7 +26,7 @@
 
 <br>
 
-##  Statistics
+## Statistics
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=JoshuaBalde-13&theme=dark&hide_border=true&stroke=E67E22&ring=E67E22&fire=E67E22&currStreakLabel=E67E22)
 
