@@ -1,9 +1,6 @@
 <div align="center">
-<br>
-
+  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=4ADE80&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Joshua;Aspiring+Data+Engineer;3rd+Year+BSIT+Student+at+NU+Fairview)](https://git.io/typing-svg)
-
-<br>
 
 ---
 
